@@ -1,25 +1,14 @@
 # betsim
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-![build](https://img.shields.io/badge/build-ซิ่งผ่าน-brightgreen)
-![risk](https://img.shields.io/badge/risk-สูงมาก-red)
-![license](https://img.shields.io/badge/license-กล้าเสี่ยงเอง-yellow)
-![status](https://img.shields.io/badge/status-รวยหรือจน-orange)
-![coverage](https://img.shields.io/badge/test%20coverage-มโนไปเอง-lightgrey)
-=======
 ![build](https://img.shields.io/badge/build-0.1-brightgreen)
 ![risk](https://img.shields.io/badge/risk-สูงถ้าคุณปัญญาอ่อน_น้อยถ้าคุณฉลาดแบบผม-red)
 ![license](https://img.shields.io/badge/license-กล้าเสี่ยงกล้าลอง-yellow)
 ![status](https://img.shields.io/badge/status-รวย-orange)
 ![coverage](https://img.shields.io/badge/test%20coverage-testcoverageแปลว่าไรวะ-lightgrey)
->>>>>>> 1ae2141 (z)
 
 การลงทุนซื้อหุ้นปกติแบบคนทั่วไปมันธรรมดาไปครับ คุณจะเป็นแกะเป็นหมูเป็นหมาในโรงเชือดหรอครับ 
 คนรวยมักบอกว่าความเสี่ยงคือกุญแจสำคัญที่ทำให้พวกเค้าอยู่ในจุดนั้นได้ เพราะฉะนั้นเราต้องกล้าทำสิ่งที่คนส่วนใหญ่ไม่กล้าทำ (เพราะเค้าไม่รู้กันว่าทำไง)
 
->>>>>>> a1a0d92 (okขอบคุณ)
 การลงทุนวิธีนี้ไม่ได้มีไว้สำหรับพวกอ่อนๆ ไม่กล้าลองไม่กล้าเสี่ยง แต่ก็ไม่ได้มีไว้สำหรับพวกโง่ๆ ลงมั่วๆไม่คิด
 คุณต้องบริหารความเสี่ยงเพราะนั่นคือสิ่งที่คนฉลาด(อย่างผม) ทำนั่นเอง ซิ่งการันตีความสำเร็จแน่นอน ถ้าคุณไม่เชื่อก็เป็นแกะเป็นหมาต่อไปครับ
 
