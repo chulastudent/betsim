@@ -1,5 +1,7 @@
 # betsim
 
+note: ai-generated *satire* project to learn javascript, vercel deployment, postgresql, and node.js backend
+
 ![build](https://img.shields.io/badge/build-0.1-brightgreen)
 ![risk](https://img.shields.io/badge/risk-น้อยถ้าคุณฉลาด-red)
 ![license](https://img.shields.io/badge/license-กล้าเสี่ยงกล้าลอง-yellow)
